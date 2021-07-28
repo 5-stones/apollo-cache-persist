@@ -1,5 +1,5 @@
 {
-  "name": "apollo3-cache-persist",
+  "name": "@5stones/apollo3-cache-persist",
   "version": "0.10.0",
   "description": "Simple persistence for all Apollo cache implementations",
   "author": "James Reggio <james.reggio@gmail.com>",
